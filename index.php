@@ -20,7 +20,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC"); // usin
 	<tr bgcolor='#CCCCCC'>
 		<td>Nama</td>
 		<td>Umur</td>
-		<td>Email</td>
+		<td>Email </td>
 		<td>Aksi</td>
 	</tr>
 	<?php 
